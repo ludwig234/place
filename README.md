@@ -1,4 +1,4 @@
-# King overlay
+# Moose and cloud overlay
 First install either:
 
  * Tampermonkey https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related?hl=en
